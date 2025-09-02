@@ -1,6 +1,6 @@
 # 木制 5x7 大画幅双轨座机
 
-###### 【Designed by SoTWild】[![](https://img.shields.io/badge/My Account-BiliBili-brightgreen.svg)]() ![](https://img.shields.io/badge/Version-1.0-red)![](https://img.shields.io/badge/Licence-GPL-blue) 
+###### 【Designed by SoTWild】![](https://img.shields.io/badge/Version-1.0-red)![](https://img.shields.io/badge/Licence-GNU-blue) 
 
 我好像很久没有更新新的内容了~~（2年）~~，这次为大家带来的并不是嵌入式领域的研究，而是一种（相对）古典的**胶片摄影器材制作尝试和分享**。该器材并非当下常见的数码设备，而是一种——如标题所见——**大画幅相机系统**。
 
